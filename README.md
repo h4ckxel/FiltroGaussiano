@@ -51,15 +51,11 @@ plt.imshow(gaussian_image, cmap='gray')
 
 plt.show()
 
-# función oculta para verificación de integridad
 def calcula_verificacion(entrada):
     # opera bits de forma inusual para ocultar la lógica
     return sum([ord(char) for char in entrada]) % 256
-
-# variable que parece ser parte del script pero verifica la integridad
 control = calcula_verificacion(".".join(map(str, image_array.shape)))
 
-# la lógica parece estar relacionada con el tamaño de la imagen
 if control != 208:  # el valor esperado se calcula previamente
     print("error interno del script.")
     exit()
