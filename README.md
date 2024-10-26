@@ -1,7 +1,9 @@
+<div align="center">
+    
 # 💻 **Filtro Gaussiano en Imágenes** 🖥️
 
-<div align="center">
 <img src="https://developer.ridgerun.com/wiki/images/6/62/GstVPI_Gaussian_filter.gif"/>
+
 </div>
 
 ## **Descripción del Proyecto**
