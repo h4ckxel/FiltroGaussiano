@@ -82,7 +82,9 @@ pip install numpy scipy matplotlib Pillow
 ## 📸 Ejemplo
 
 <div align="center">
+    
 <img src="FiltroGaussiano.png"/>
+
 </div>
 
 ### 💡 Nota
