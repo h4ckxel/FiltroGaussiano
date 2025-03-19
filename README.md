@@ -19,6 +19,7 @@ Bienvenido al proyecto de ***Suavizado de Imágenes con Filtro Gaussiano (SIFG)*
 3. **📊 Mostrar Resultados**: Se muestran la imagen original y la imagen suavizada en una ventana gráfica.
 
 
+
 ## **Código**
 
 ```python
