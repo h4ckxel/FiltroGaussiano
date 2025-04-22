@@ -1,6 +1,6 @@
 <div align="center">
     
-# 💻 **Filtro Gaussiano en Imágenes** 🖥️
+# **Filtro Gaussiano en Imágenes**
 
 <img src="https://developer.ridgerun.com/wiki/images/6/62/GstVPI_Gaussian_filter.gif"/>
 
