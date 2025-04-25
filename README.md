@@ -12,6 +12,7 @@ Bienvenido al proyecto de ***Suavizado de Imágenes con Filtro Gaussiano (SIFG)*
 
 ## **Cómo Funciona**
 
+
 1. **🕵️‍♂️ Cargar Imagen**: Se carga una imagen desde una ruta especificada en tu sistema.
 
 2. **🔬 Aplicar Filtro Gaussiano**: Se aplica un filtro gaussiano para suavizar la imagen. Ajusta el valor de `sigma` para experimentar con el desenfoque.
